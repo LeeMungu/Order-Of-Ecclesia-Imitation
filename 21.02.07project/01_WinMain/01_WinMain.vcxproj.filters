@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="MainGame">
+      <UniqueIdentifier>{c41c9b98-a31b-4d9e-82a2-bfabc2c89dda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork">
+      <UniqueIdentifier>{125a9a4b-d6cf-4037-9e54-0fb4519c206d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Random">
+      <UniqueIdentifier>{219329fd-0bdf-4ce2-b382-6095da14c0ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Input">
+      <UniqueIdentifier>{75cd5072-d518-4bc6-841c-5675d8848ae3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Image">
+      <UniqueIdentifier>{4ad6b531-7d7b-4111-be06-f2bad4da87c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Figure">
+      <UniqueIdentifier>{c81da49d-f8e8-47d3-831a-e79e4d881ce0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Math">
+      <UniqueIdentifier>{fd572bdf-356e-468e-a803-eca354b8868c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Player">
+      <UniqueIdentifier>{417f3865-1179-4a2c-b28d-6f0d80927322}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\ImageManager">
+      <UniqueIdentifier>{595cc926-f5ed-4cbd-ae5b-5afef7a3c034}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Unit">
+      <UniqueIdentifier>{147c1e98-4297-4fbd-8ef8-4534c82fa18c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\GameObject">
+      <UniqueIdentifier>{ce391e20-308d-42f4-aed2-455d8c739de4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\ObjectManager">
+      <UniqueIdentifier>{f18926d1-c23a-4168-b991-2e0a8ccf8815}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Object">
+      <UniqueIdentifier>{437a0a18-2f17-4d60-98dd-add5fd052a1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Monster">
+      <UniqueIdentifier>{778d6e34-668c-4645-a7dc-6a93b7331e9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\MonsterManager">
+      <UniqueIdentifier>{40baafda-3eb8-4378-bc43-7a2a74ec373e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Monster\Zombi">
+      <UniqueIdentifier>{5bd86194-d8e4-477e-b962-bc15cca288bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Monster\Bat">
+      <UniqueIdentifier>{ea8eef42-a6e4-4159-bbd9-6125a092a337}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\item">
+      <UniqueIdentifier>{bad888e6-818e-4265-9368-6f1ff6548764}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\item\Weapon">
+      <UniqueIdentifier>{6422f938-d39e-43c5-afb7-bea3c11bfd17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\item\Food">
+      <UniqueIdentifier>{c1c9df37-46a9-4377-b46b-9249348f822e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\ItemManager">
+      <UniqueIdentifier>{92800839-952e-479e-b44c-9632e0c50b9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\BackGround">
+      <UniqueIdentifier>{ef4d5349-21ef-4709-8d6e-d9d7fd309acc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\BackGroundManager">
+      <UniqueIdentifier>{c06e355f-c8cf-4e4a-b756-babf72c72ed3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Monster\Boss">
+      <UniqueIdentifier>{996d68de-c52d-420f-825a-bd48b3877f0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Effect">
+      <UniqueIdentifier>{70f63ae9-ab94-4dff-8897-a373c10e7114}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\EffectManager">
+      <UniqueIdentifier>{9d03fe43-f29a-4ecc-9eb5-03fed60117af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\item\EnermyWeapon">
+      <UniqueIdentifier>{284c96a9-c003-4042-b77f-edf353d1a6a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\item\FieldWeapon">
+      <UniqueIdentifier>{3eba5b36-a672-421f-9d17-7505a13fe51f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\Map">
+      <UniqueIdentifier>{e9884e56-ef17-4ff6-8388-af116eaf318f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="01_WinMain.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>FrameWork\Random</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>FrameWork\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Image.h">
+      <Filter>FrameWork\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="Figure.h">
+      <Filter>FrameWork\Figure</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>FrameWork\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="DefineHeader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>MainGame\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageManager.h">
+      <Filter>FrameWork\ImageManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Unit.h">
+      <Filter>MainGame\Unit</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>MainGame\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>MainGame\ObjectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>MainGame\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>MainGame\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="MonsterManager.h">
+      <Filter>MainGame\MonsterManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Bat.h">
+      <Filter>MainGame\Monster\Bat</Filter>
+    </ClInclude>
+    <ClInclude Include="Zombi.h">
+      <Filter>MainGame\Monster\Zombi</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>MainGame\item</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>MainGame\item\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemManager.h">
+      <Filter>MainGame\ItemManager</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGround.h">
+      <Filter>MainGame\BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="BackGroundManager.h">
+      <Filter>MainGame\BackGroundManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>MainGame\Monster\Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>MainGame\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectManager.h">
+      <Filter>MainGame\EffectManager</Filter>
+    </ClInclude>
+    <ClInclude Include="EnermyWeapon.h">
+      <Filter>MainGame\item\EnermyWeapon</Filter>
+    </ClInclude>
+    <ClInclude Include="FieldWeapon.h">
+      <Filter>MainGame\item\FieldWeapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>MainGame\Map</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01_WinMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame + MainProc.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>FrameWork\Random</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>FrameWork\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>FrameWork\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>FrameWork\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>MainGame\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageManager.cpp">
+      <Filter>FrameWork\ImageManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>MainGame\Unit</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>MainGame\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>MainGame\ObjectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>MainGame\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>MainGame\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="MonsterManager.cpp">
+      <Filter>MainGame\MonsterManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Bat.cpp">
+      <Filter>MainGame\Monster\Bat</Filter>
+    </ClCompile>
+    <ClCompile Include="Zombi.cpp">
+      <Filter>MainGame\Monster\Zombi</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>MainGame\item</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>MainGame\item\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemManager.cpp">
+      <Filter>MainGame\ItemManager</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGround.cpp">
+      <Filter>MainGame\BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGroundManager.cpp">
+      <Filter>MainGame\BackGroundManager</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.cpp">
+      <Filter>MainGame\Monster\Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>MainGame\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectManager.cpp">
+      <Filter>MainGame\EffectManager</Filter>
+    </ClCompile>
+    <ClCompile Include="EnermyWeapon.cpp">
+      <Filter>MainGame\item\EnermyWeapon</Filter>
+    </ClCompile>
+    <ClCompile Include="FieldWeapon.cpp">
+      <Filter>MainGame\item\FieldWeapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>MainGame\Map</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="01_WinMain.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="01_WinMain.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
